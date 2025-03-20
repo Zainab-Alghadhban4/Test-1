@@ -1,2 +1,2 @@
-# Test-1
- first repository
+# This is my first repository
+Class: DAB -7
