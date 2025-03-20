@@ -1,2 +1,2 @@
 # This is my first repository
-Class: DAB -7
+Class: Data Analytics B -7
